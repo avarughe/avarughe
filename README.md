@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+###  - 🌱 I’m just starting out and currently learning how to code in Python and SQL
+###  - 😄 Pronouns: she/her/hers
 <!--
 **avarughe/avarughe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
